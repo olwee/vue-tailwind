@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/dashboard/index.js"],"names":["Dashboard"],"mappings":";;;;;;;AAAA;;;;;;QAGEA,S,GAAAA,e","file":"index.js","sourcesContent":["import Dashboard from './index.vue';\n\nexport  {\n  Dashboard\n};\n"]}
